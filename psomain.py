@@ -7,3 +7,4 @@ Created on Thu Apr 12 16:46:31 2018
 
 #Particle Swarm Optimization
 
+import numpy as np
